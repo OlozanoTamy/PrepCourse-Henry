@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-Este es un repositorio para guardar los avances en el desarrollo del prep course
+Oscar Lozano
+Este es un repositorio para guardad los avances de lo aprendido en el PrepCourse de Henry
